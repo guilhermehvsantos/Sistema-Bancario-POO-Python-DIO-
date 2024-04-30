@@ -1,4 +1,4 @@
-# Coding Future VIVO Python AI Backend Dveloper Bootcamp
+# Coding Future VIVO Python AI Backend Developer Bootcamp
 
 Desafio de projeto do bootcamp da DIO com parceria da VIVO. Criação de um sistema bancário com a inclusão de funções e regras de negócios.
 
